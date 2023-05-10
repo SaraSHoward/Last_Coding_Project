@@ -1,0 +1,85 @@
+body {
+ max-width: 960px;
+ margin :auto;
+ display: flex;
+ margin-top: 20px;
+}
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+h2 {
+    padding-top: 20px;
+}
+p {
+    font-family: 'DM Sans';
+    font-size: 14px;
+}
+header {
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+nav {
+    display: inline-block;
+    width: 73%;
+}
+/* section {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+} */
+div class row {
+    align-items: center;
+}
+ul {
+    list-style: none;
+    padding-left: 0px;
+    padding-top: 15px;
+    font-family: 'Poppins';
+}
+.row {
+    display:flex
+    align-items:flex-start
+}
+.LeftColumnStuff {
+    float: left
+}
+.CaseStudy1 {
+    background-color: #EC4464;
+    border-radius: 8px;
+    color: white;
+    margin-bottom: 10px;
+    font-family: 'Poppins';
+}
+.CaseStudy2 {
+    background-color: #1bc4c7;
+    border-radius: 8px;
+    color: white;
+    margin-bottom: 10px;
+    font-family: 'Poppins';
+}
+.CaseStudy3 {
+    background-color: #0E467C;
+    border-radius: 8px;
+    color: white;
+    margin-bottom: 10px;
+    font-family: 'Poppins';
+}
+.CaseStudyPadding {
+    padding: 20px;
+}
+.orangebutton {
+    background-color: #F2994A;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
